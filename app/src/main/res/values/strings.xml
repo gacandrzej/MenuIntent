@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">MyTestKot</string>
+    <string name="intent">MyTestKot</string>
+    <string name="losuj">losuj</string>
+    <string name="NewtonRaphson">Newton-Raphson</string>
+    <string name="MonteCarlo">MonteCarlo</string>
+    <string name="sortowaniePrzezZliczanie">sortowanie przez zliczanie</string>
+    <string name="oAutorze">O autorze</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
 </resources>
