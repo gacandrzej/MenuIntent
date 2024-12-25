@@ -1,5 +1,5 @@
 <resources>
-    <string name="intent">MyTestKot</string>
+    <string name="app_name">Intent</string>
     <string name="losuj">losuj</string>
     <string name="NewtonRaphson">Newton-Raphson</string>
     <string name="MonteCarlo">MonteCarlo</string>

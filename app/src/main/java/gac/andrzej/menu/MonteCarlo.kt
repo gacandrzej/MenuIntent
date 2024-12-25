@@ -21,7 +21,7 @@ class MonteCarlo : AppCompatActivity() {
             insets
         }
         algorithms = Algorithms()
-        setSupportActionBar(findViewById(R.id.toolbar))
+        setSupportActionBar(findViewById(R.id.toolbar2))
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         val intent = intent

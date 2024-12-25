@@ -7,6 +7,9 @@
     android:id="@+id/main3"
     tools:context=".MonteCarlo">
 
-    <include layout="@layout/layout_action_bar" />
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar2"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize" />
 
 </LinearLayout>

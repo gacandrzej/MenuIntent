@@ -21,7 +21,7 @@ class NewtonRaphson : AppCompatActivity() {
             insets
         }
         algorithms = Algorithms()
-        setSupportActionBar(findViewById(R.id.toolbar))
+        setSupportActionBar(findViewById(R.id.toolbar3))
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         val intent = intent

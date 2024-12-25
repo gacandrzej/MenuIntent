@@ -7,6 +7,9 @@
     android:id="@+id/main2"
     tools:context=".NewtonRaphson">
 
-    <include layout="@layout/layout_action_bar" />
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar3"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize" />
 
 </RelativeLayout>
