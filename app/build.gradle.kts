@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "gac.andrzej.mytestkot"
+    namespace = "gac.andrzej.menu"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "gac.andrzej.mytestkot"
+        applicationId = "gac.andrzej.menu"
         minSdk = 29
         targetSdk = 34
         versionCode = 1

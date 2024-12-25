@@ -1,4 +1,4 @@
-package gac.andrzej.mytestkot
+package gac.andrzej.menu
 
 import org.junit.Test
 
