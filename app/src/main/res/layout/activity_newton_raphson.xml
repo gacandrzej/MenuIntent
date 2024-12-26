@@ -5,11 +5,22 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/main2"
+    android:background="@color/design_default_color_error"
     tools:context=".NewtonRaphson">
 
     <com.google.android.material.appbar.MaterialToolbar
         android:id="@+id/toolbar3"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize" />
+
+    <TextView
+        android:id="@+id/tvPierwiastek"
+        android:layout_marginTop="200dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="35sp"
+        android:textColor="@color/black"
+        android:text="TextView" />
 
 </RelativeLayout>
